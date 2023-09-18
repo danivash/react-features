@@ -1,0 +1,15 @@
+.main{
+  margin: 5px;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: aliceblue;
+}
+
+.counter{
+  position: fixed;
+  top: 20px;
+  right: 50px;
+}
